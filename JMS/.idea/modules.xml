@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JMS_Sender/FlightsAgency.iml" filepath="$PROJECT_DIR$/JMS_Sender/FlightsAgency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Receiver/Receiver.iml" filepath="$PROJECT_DIR$/Receiver/Receiver.iml" />
+    </modules>
+  </component>
+</project>
